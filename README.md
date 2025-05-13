@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Rukmisriya
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...html,css,c#,ethical hacking
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...srukku03@gmail.com
+- 👀 I’m interested in ...coding and like to use my creative ideas , analytical skills...
+- 🌱 I’m currently learning ...Front-end with HTML,CSS,Node.js,React,MongoDB ,
+-  Data analytics with R,Python,Advanced Excel,SQL,PowerBI,Tabluea
+- 💞️ I’m looking for a suitable position that enhances my skills
+- 📫 How to reach me ... srukku03@gmail.com
 
 <!---
 Rukmisriya/Rukmisriya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
